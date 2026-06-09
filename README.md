@@ -1,4 +1,4 @@
-## 👋 ¡Hola!
+## ¡Buenas!
 
 Soy **Daniel Dumalupascu**, estudiante de desarrollo y tecnologías digitales.
 
@@ -12,7 +12,8 @@ Soy **Daniel Dumalupascu**, estudiante de desarrollo y tecnologías digitales.
 - 🔭 Me interesa el mundo de la tecnología y el desarrollo web  
 - 🌱 Estoy aprendiendo y mejorando mis habilidades en programación y redes  
 - 💡 Me gusta construir proyectos prácticos y experimentar con nuevas herramientas  
-- ⚡ Siempre buscando mejorar un poco cada día  
+- ⚡ Siempre buscando mejorar un poco cada día
+- 📚 Aprendiendo inglés
 
 ---
 
@@ -33,9 +34,8 @@ Soy **Daniel Dumalupascu**, estudiante de desarrollo y tecnologías digitales.
 
 ## 📫 Contacto
 
-- 💬 Puedes escribirme a través de GitHub
 - 🌍 Siempre abierto a colaborar en proyectos interesantes
 
 ---
 
-⭐ Gracias por visitar mi perfil
+⭐ Gracias por visitar mi perfil ⭐
