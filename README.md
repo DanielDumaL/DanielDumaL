@@ -1,6 +1,6 @@
 ## ¡Buenas!
 
-Soy **Daniel Dumalupascu**, estudiante de desarrollo y tecnologías digitales.
+Soy **Daniel Duma Lupascu**, estudiante de desarrollo y tecnologías digitales.
 
 🎂 Nací el 12 de enero de 2009  
 📚 Actualmente (2025–2026) estoy cursando **Grado Medio de Instalaciones de Telecomunicaciones (1º año)**
