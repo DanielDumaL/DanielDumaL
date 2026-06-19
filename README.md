@@ -34,7 +34,7 @@ Soy **Daniel Duma Lupascu**, estudiante de desarrollo y tecnologías digitales.
 
 ## 📫 Contacto
 
-- 🌍 Siempre abierto a colaborar en proyectos interesantes
+- Siempre abierto a colaborar en proyectos interesantes
 
 ---
 
