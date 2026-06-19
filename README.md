@@ -9,11 +9,11 @@ Soy **Daniel Duma Lupascu**, estudiante de desarrollo y tecnologías digitales.
 
 ## 🚀 Sobre mí
 
-- 🔭 Me interesa el mundo de la tecnología y el desarrollo web  
-- 🌱 Estoy aprendiendo y mejorando mis habilidades en programación y redes  
-- 💡 Me gusta construir proyectos prácticos y experimentar con nuevas herramientas  
-- ⚡ Siempre buscando mejorar un poco cada día
-- 📚 Aprendiendo inglés
+- Me interesa el mundo de la tecnología y el desarrollo web  
+- Estoy aprendiendo y mejorando mis habilidades en programación y redes  
+- Me gusta construir proyectos prácticos y experimentar con nuevas herramientas  
+- Siempre buscando mejorar un poco cada día
+- Aprendiendo inglés
 
 ---
 
