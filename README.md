@@ -2,7 +2,7 @@
 
 Soy **Daniel Duma Lupascu**, estudiante de desarrollo y tecnologías digitales.
 
- 📚 Actualmente (2027–2028) estoy cursando **Grado Medio de Instalaciones de Telecomunicaciones (2º año)**
+ 📚 Actualmente (2026–2027) estoy cursando **Grado Medio de Instalaciones de Telecomunicaciones (2º año)**
 
 ---
 
